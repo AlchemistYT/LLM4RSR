@@ -1,0 +1,11 @@
+fairscale
+fire
+sentencepiece
+numpy==1.24.2
+scipy==1.10.1
+torch==2.0.0
+python=3.8.10
+CUDA==11.4
+seaborn==0.12.2
+apex==0.9.10dev
+matplotlib==3.7.1
