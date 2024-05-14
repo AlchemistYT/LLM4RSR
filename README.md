@@ -32,7 +32,7 @@
 
 
 ## Codes for backbones
-THe optimized prompts can be used to correct the datasets of SRs:
+The optimized prompts can be used to correct the datasets of SRs:
 - GRU4Rec: https://github.com/hidasib/GRU4Rec
 - Caser: https://github.com/graytowne/caser_pytorch
 - SASRec: https://github.com/kang205/SASRec
