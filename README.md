@@ -14,7 +14,7 @@
 1. Install required packages.
 2. Run <code>pip install -e .</code> to install dependencies required by Llama2.
 3. Run <code>download.sh</code> to install Llama2-7B (detailed instructions can be found here: https://github.com/Meta-Llama/llama).
-4. Run <code>nohup torchrun --nproc_per_node 1 seref.py</code> to optimize the prompts via SeRef on various datasets. 
+4. Run <code>nohup torchrun --nproc_per_node 1 tgd.py</code> to optimize the prompts via TGD on various datasets. 
 5. Run <code>nohup torchrun --nproc_per_node 1 ml1m_inference.py</code> to run the optimized prompts on ML-1M dataset. Similar scripts are available for
    - CD: <code>nohup torchrun --nproc_per_node 1 cd_inference.py</code>
    - Game: <code>nohup torchrun --nproc_per_node 1 game_inference.py</code>
