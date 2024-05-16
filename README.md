@@ -25,7 +25,7 @@
 - All the datasets used in our paper are organized in [dataset/](dataset/), where each data dir contains three files:
   - i_idx2str.dat stores the attributes of each item
   - i_idx2summary stores the summary of each item
-  - synthetic_instances_simple.dat stores the constructed SeRef dataset
+  - synthetic_instances_simple.dat stores the constructed TGD dataset
 - ML-1M is from https://grouplens.org/datasets/movielens/1m/,
 - CD, Game, and Kindle are from http://jmcauley.ucsd.edu/data/amazon/.
 
